@@ -855,8 +855,8 @@
                     url: "https://ajijaya-automobile.com",
                     ogImage: "/og.jpg",
                     links: {
-                        whatsapp: "https://wa.me/6281234567890",
-                        phone: "+6281234567890",
+                        whatsapp: "https://wa.me/6283812560767",
+                        phone: "+6283812560767",
                         email: "info@ajijaya-automobile.com",
                         address: "Bengkel mobil aji jaya automobile, Alamat lengkap : Bumi Indah, Kec. Ps. Kemis, Kabupaten Tangerang, Banten 15560"
                     }
